@@ -1,0 +1,47 @@
+* {
+
+    overflow-x: hidden;
+}
+
+
+
+
+body {
+
+    overflow-x: hidden;
+}
+
+
+
+nav {
+
+    margin-bottom: 2%;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+}
+
+.container-fluid .navbar-brand {
+
+    font-weight: 400;
+    font-size: 1.7rem;
+    font-family: sans-serif;
+}
+
+main {
+
+    margin: auto 2%;
+
+}
+
+#tambah-buku {
+
+    margin-bottom: 2%;
+}
+
+.navbar-nav {
+
+    margin: auto;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
